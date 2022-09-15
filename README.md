@@ -1,5 +1,5 @@
 # Fotomatic
-This is a Codecademy projec from their Full-Stack Engineer career path.
+This is a Codecademy project from their Full-Stack Engineer career path.
 
 # Project Description
 In this project you will fix a broken version of a responsive website called Fotomatic. You will be provided specs to help guide you in making adjustments to the broken code. Download the broken code and the specs. You can also see a working version of the final product.
