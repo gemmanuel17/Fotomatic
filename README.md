@@ -8,7 +8,7 @@ As you fix Fotomatic’s bugs, remember to use the skills you acquired in the Ch
 
 # My Changes
 
-All my changes can be found in the index.html and style.css filess. I will be commenting in each file where I made the changes.
+All my changes can be found in the index.html and style.css files. I will be commenting in each file where I made the changes.
 
 # My Live Solution
 
